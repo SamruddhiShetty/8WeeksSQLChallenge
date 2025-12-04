@@ -26,9 +26,7 @@ Entity Relationship Diagram
 
 Example Datasets
 All datasets exist within the dannys_diner database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
+
 Refer for more information regarding the problem statment in --
 https://8weeksqlchallenge.com/case-study-1/
 
-customer_id	join_date
-A	2021-01-07
-B	2021-01-09
